@@ -1,10 +1,16 @@
-## This is a REPL test
+## This is a Readme with a Javascript Repl
 
-Schlitz brunch photo booth lumbersexual cliche banjo Intelligentsia street art, bicycle rights salvia four loko vegan raw denim YOLO gluten-free. Echo Park 8-bit quinoa, raw denim next level vinyl Shoreditch authentic chambray farm-to-table craft beer XOXO. Narwhal leggings meggings gentrify, normcore fixie synth cred before they sold out chambray meh yr keffiyeh art party. Twee pork belly readymade trust fund deep v selfies cold-pressed narwhal, drinking vinegar paleo. Semiotics pork belly tilde cronut Pinterest. Pour-over semiotics tilde High Life. Put a bird on it normcore raw denim, Truffaut master cleanse health goth roof party.
+##### Here is some readme content.
+
+Schlitz brunch photo booth lumbersexual cliche banjo Intelligentsia street art, bicycle rights salvia four loko vegan raw denim YOLO gluten-free. Echo Park 8-bit quinoa, raw denim next level vinyl Shoreditch authentic chambray farm-to-table craft beer XOXO.
+
+## The three consecutive percent signs below indicate that start of a Repl block.
 
 %%%
 
-### Another JS REPL
+### This is the Quiz Title - It is required.
+
+Here, you can write any necessary directions for the repl.  It will be parsed as markdown, and even accepts codeblocks!
 
 Write a `while` loop that fills the given array `tayArray` with five strings, each containing "taylors gonna tay".
 
@@ -18,6 +24,8 @@ for(i=0; i<10; i++;){
 
 Now write your own!
 
+The space delineated by the tildes below is used to set any initial values for the repl.  Append the name of the language you want to use, to the opening trio of tildes.
+
 ~~~javascript
 
 var tayArray = [];
@@ -26,4 +34,24 @@ var tayArray = [];
 
 %%%
 
-PBR synth ugh mustache, umami Pitchfork Godard retro meditation hashtag seitan chia wolf cronut. Williamsburg tattooed deep v, four loko try-hard lomo skateboard pork belly. Hella freegan VHS, brunch Pitchfork vegan cold-pressed lo-fi banh mi four loko viral. Gastropub banh mi Wes Anderson, Odd Future small batch retro pug. Skateboard swag roof party, art party seitan raw denim Helvetica brunch listicle trust fund cliche. Roof party banh mi meggings, jean shorts PBR iPhone retro normcore ennui fixie you probably haven't heard of them bitters try-hard aesthetic hashtag. Jean shorts Wes Anderson meggings, single-origin coffee flannel occupy Etsy letterpress cold-pressed four loko keytar.
+This is outside of the repl block.  Please check out the .repl file to see how to write a solution and validation.
+
+##### Here is some more readme content.
+
+Schlitz crunch photo booth lumbersexual cliche banjo Intelligentsia street art, bicycle rights salvia four loko vegan raw denim YOLO gluten-free. Echo Park 8-bit quinoa, raw denim next level vinyl Shoreditch authentic chambray farm-to-table craft beer XOXO.
+
+%%%
+
+### Ruby Repl
+
+Here, you can write any necessary directions for the repl.  It will be parsed as markdown, and even accepts codeblocks!
+
+Now write your own!
+
+~~~ruby
+
+# Code your solution here
+
+~~~
+
+%%%
