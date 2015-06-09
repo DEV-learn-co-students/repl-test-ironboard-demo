@@ -1,4 +1,4 @@
-## This is a Readme with a Javascript Repl
+## This is a Readme with Code Challenges and a Quiz
 
 ##### Here is some readme content.
 
@@ -60,26 +60,55 @@ Now write your own!
 
 and so on and so on
 
-# our-rad-quiz
-
-## hi hello this is a meeting about quizziesss
-
 ???
 
-# Quiz Title Goes Here
+# This is a quiz title.  It is an H1 that succeeds an opening quiz delimiter and a newline.
 
-?: Who is the Prime Minister of Canada?
+?: What is 1+1?  This is the first question.  A newline is required between this and the title above.
 
-( ) David Cameron
-( ) Barry Obama
-( ) Stephen Harper
-( ) Al Gore
+## Standard markdown will be parsed as expected between the question, and the answer block.
 
-?: What's your favorite color?
+__The parends below are reserved characters that indicate radio buttons.__
 
-[ ] Red
-[ ] Aquamarine
-[ ] Chartreuse
-[ ] Taupe
+( ) 3
+(X) 2
+( ) 11
+( ) 1
+
+?: What is 1+1?  This is how you can include code blocks as a choices.
+
+( )
+```ruby
+  def three
+    "3"
+  end
+```
+(X)
+```ruby
+  def two
+    "2"
+  end
+```
+( )
+```ruby
+  def one
+    "1"
+  end
+```
+( )
+```ruby
+  def eleven
+    "11"
+  end
+```
+
+?: A newline is required between this question, and the answer block above.  Select numbers 3 and 4.
+
+#### The square brackets below are reserved characters that indicate checkboxes.
+
+[X] 3
+[X] 4
+[ ] 9
+[ ] 7
 
 ???
