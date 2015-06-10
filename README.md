@@ -1,7 +1,5 @@
 ## This is a Readme with Code Challenges and a Quiz
 
-##### Here is some readme content.
-
 Schlitz brunch photo booth lumbersexual cliche banjo Intelligentsia street art, bicycle rights salvia four loko vegan raw denim YOLO gluten-free. Echo Park 8-bit quinoa, raw denim next level vinyl Shoreditch authentic chambray farm-to-table craft beer XOXO.
 
 ## The three consecutive percent signs below indicate that start of a Repl block.
@@ -11,6 +9,12 @@ Schlitz brunch photo booth lumbersexual cliche banjo Intelligentsia street art, 
 ### Ruby Repl
 
 Here, you can write any necessary directions for the repl.  It will be parsed as markdown, and even accepts codeblocks!
+
+```ruby
+  def hamburgers
+    puts 'hamburgers'
+  end
+```
 
 Now write your own!
 
